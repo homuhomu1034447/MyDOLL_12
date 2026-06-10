@@ -1,0 +1,24 @@
+2001
+assets/menu/mydoll12_mizugi.txt
+MyDOLL No.12 リボン
+mizugi
+貴方のお人形 homuhomu作
+
+メニューフォルダ	DRESS
+category	mizugi
+catno	0
+属性追加	所持数表示しない
+priority	99
+name	MyDOLL No.12 リボン
+setumei	貴方のお人形 homuhomu作
+icons	mydoll12_i_.tex
+additem	mydoll12_mizugi.model	mizugi
+マテリアル変更	mizugi	0	mydoll12_ribbon_b.mate
+マテリアル変更	mizugi	1	mydoll12_ribbon_a.mate
+マテリアル変更	mizugi	2	mydoll12_mune_frill.mate
+マテリアル変更	mizugi	3	mydoll12_ribbon_c.mate
+マテリアル変更	mizugi	4	mydoll12_rosette_frill_a.mate
+マテリアル変更	mizugi	5	mydoll12_facade.mate
+マテリアル変更	mizugi	6	mydoll12_koshi_frill.mate
+マテリアル変更	mizugi	7	mydoll12_rosette_frill_b.mate
+マテリアル変更	mizugi	8	mydoll12_rossete_center.mate
